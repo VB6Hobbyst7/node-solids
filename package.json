@@ -1,0 +1,26 @@
+{
+  "name": "solids",
+  "version": "0.0.0",
+  "description": "toolkit for working with cnc mills/3d printers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tmpvar/node-solids.git"
+  },
+  "keywords": [
+    "hardware",
+    "cnc",
+    "3d",
+    "printer"
+  ],
+  "author": "Elijah Insua <tmpvar@gmail.com>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "bindings": "~1.0.0",
+    "serialport": "~1.0.8"
+  }
+}
